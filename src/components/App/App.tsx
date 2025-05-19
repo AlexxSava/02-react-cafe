@@ -2,7 +2,7 @@ import { useState } from "react";
 import css from "./App.module.css";
 import CafeInfo from "../CafeInfo/CafeInfo";
 import type { Votes, VoteType } from "../../types/votes";
-import VoteOptions from "../VoteOptions/VoteOtpions";
+import VoteOptions from "../VoteOptions/VoteOptions";
 
 import Notification from "../Notification/Notification";
 import VoteStats from "../VoteStats/VoteStats";
